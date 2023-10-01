@@ -1,0 +1,198 @@
+.main {
+    background-color: rgb(78, 79, 80);
+
+}
+
+.main1 {}
+
+.main2 {
+    border: 5px solid red;
+    border-radius: 10px;
+    width: 400px;
+    height: 150px;
+    background-color: white;
+    color: maroon;
+    text-align: center;
+    margin-left: 400px;
+    text-shadow: 1px 1px;
+    font-weight: bolder;
+    font-size: larger;
+    font-style: italic;
+    box-shadow: 5px 5px rgb(120, 7, 168);
+}
+
+/* --------------------------------------------------section--------------------------------------------------- */
+.sec {
+    border: 5px solid green;
+    height: 600px;
+    width: 1240px;
+    position: relative;
+
+}
+
+.sec1 {
+    border: 5px solid red;
+    border-radius: 10px;
+    height: 200px;
+    width: 200px;
+    background-color: white;
+    font-size: larger;
+    font: bolder;
+    color: maroon;
+    text-align: center;
+    font-weight: bolder;
+    margin-right: 800px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    box-shadow: 5px 5px rgb(120, 7, 168);
+    text-shadow: 1px 1px 2px rgb(120,7,168);
+
+
+}
+
+.sec2 {
+    border: 5px solid red;
+    border-radius: 10px;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    background-color: white;
+    position: absolute;
+    right: 50px;
+    top: 0px;
+    box-shadow: 5px 5px rgb(120, 7, 168);
+    text-shadow: 1px 1px 2px rgb(120,7,168);
+
+}
+
+.sec3 {
+    border: 5px solid red;
+    border-radius: 10px;
+    height: 200px;
+    width: 200px;
+    background-color: white;
+    font-size: larger;
+    font: bolder;
+    color: maroon;
+    font-weight: bolder;
+    position: absolute;
+    left: 0px;
+    bottom: 40px;
+    box-shadow: 5px 5px rgb(120, 7, 168);
+    text-shadow: 1px 1px 2px rgb(120,7,168);
+
+
+
+}
+
+.sec4 {
+    border: 5px solid red;
+    border-radius: 10px;
+    height: 200px;
+    width: 200px;
+    background-color: white;
+    color: maroon;
+    text-align: center;
+    position: absolute;
+    right: 50px;
+    bottom: 40px;
+    box-shadow: 5px 5px rgb(120, 7, 168);
+    text-shadow: 1px 1px 2px rgb(120,7,168);
+
+}
+
+/*------------------------------------------------- fix-content------------------------------------------------ */
+.fmain {
+    border: 5px solid red;
+    border-radius: 10px;
+    position: fixed;
+    width: 400px;
+    height: 100px;
+    background-color: rgb(142, 241, 96);
+    font-style: italic;
+    color: maroon;
+    display: flex;
+    flex-wrap: nowrap;
+    left: 410px;
+    box-shadow: 5px 5px rgb(120, 7, 168);
+    margin-top: 230px ;
+}
+
+.fmain1 {
+    font-weight: bolder;
+    font-size: larger;
+    padding-left: 20px;
+    padding-top: 10px;
+    display: inline-block;
+}
+
+.fmain2 {
+    padding-left: 40px;
+    padding-top: 10px;
+    font-weight: bolder;
+    display: inline-block;
+}
+
+/* ------------------------------------------------bottom-section----------------------------------------------- */
+.bmain {
+    border: 5px solid rgb(98, 3, 119);
+    height: 620px;
+    width: 600px;
+    background-color: green;
+    margin-left: 300px;
+
+}
+
+.bmain1 {
+    border: 0px;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: x-large;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.bmain1a {
+   display: flex;
+   flex-wrap: nowrap;
+
+}
+
+.bmain1b {
+    border: 2px solid gray;
+    height: 300px;
+    width: 290px;
+    font-style: italic;
+    background-color: rgb(236, 211, 68);
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 4px;
+
+    
+
+}
+
+.bmain1c {
+    border: 2px solid gray;
+    height: 300px;
+    width: 290px;
+    font-style: italic;
+    background-color: rgb(236, 211, 68);
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 4px;
+}
+.bmain1d{
+    border:2px solid gray;
+    background-color: rgb(236, 211, 68); ;
+    width: 596px;
+    height: 230px;
+    margin-left: 4px;
+    margin-top: 6px;
+    font-weight: bolder;
+    font-style: italic;
+    text-align: center;
+}
